@@ -1,0 +1,9 @@
+Package: com.icraze.hidenooldernotifs
+Name: HideNoOlderNotifs
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Hide The 'No Older Notifications' Text
+Maintainer: iCraze
+Author: iCraze
+Section: Tweaks
