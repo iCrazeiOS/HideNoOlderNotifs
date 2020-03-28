@@ -7,3 +7,4 @@
 	self.hidden = YES;
 }
 %end
+// Quix was here
